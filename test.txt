@@ -3,4 +3,4 @@ File is edited on local machine
 update on remote repo
 testing git fetch from remote
 testing git conflict
-file edited on remote repo to test conflict
+2nd time trying from local machine 
