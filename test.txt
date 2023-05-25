@@ -4,3 +4,4 @@ update on remote repo
 testing git fetch from remote
 testing git conflict
 2nd time trying from local machine 
+2nd time from Remote repo
